@@ -8,3 +8,5 @@ If you can, select your audio output mix as the microphone and set the volume qu
 This decodes all the morse, in all the speeds and frequency ranges used in the video. And it works for other morse videos and even some live morse, but it's really basic.
 
 Enjoy... 
+
+Reuqires Python 3.x and install pyaudio (pip install pyaudio)
