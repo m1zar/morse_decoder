@@ -1,5 +1,6 @@
 # -- --- .--. ... . 
 # Python decode morse realtime based on audio Power not Frequency!
+# Version using pyaudiowpatch to allow use with cards without audio mix input.
 # James Wilkinson 2023
 #
 # Do imports...
