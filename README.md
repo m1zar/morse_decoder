@@ -10,3 +10,5 @@ This decodes all the morse, in all the speeds and frequency ranges used in the v
 Enjoy... 
 
 Reuqires Python 3.x and install pyaudio (pip install pyaudio)
+
+NEW: morse8.py, writen for those without an audio output mix (non realtek sound card). This requires 'pip install pyaduiowpatch', this should work for any system to decode playing audio.
