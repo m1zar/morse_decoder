@@ -1,6 +1,6 @@
 # -- --- .--. ... . 
 # Python decode morse realtime based on audio Power not Frequency!
-# James Wilkinson 2020
+# James Wilkinson 2023
 #
 # Do imports...
 import struct
